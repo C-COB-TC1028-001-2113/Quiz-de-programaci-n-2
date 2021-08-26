@@ -11,7 +11,7 @@ input_values = [
     # Test case 2
         ( 
             ["2500", "6"],
-            ["","", "INCORRECTO" ],
+            ["","", "60000.0" ],
             ["Revisa que pasa si cumples edad, pero no con credencial"]
         ),
     # Test case 3
